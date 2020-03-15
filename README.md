@@ -1,3 +1,3 @@
-# óptica Industrial.
+# Óptica Industrial.
 
 - Web de Óptica Industrial.
