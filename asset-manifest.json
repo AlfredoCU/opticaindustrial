@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/opticaindustrial/static/css/main.1fc973a9.chunk.css",
-    "main.js": "/opticaindustrial/static/js/main.4147de0a.chunk.js",
-    "main.js.map": "/opticaindustrial/static/js/main.4147de0a.chunk.js.map",
+    "main.js": "/opticaindustrial/static/js/main.3efe11d8.chunk.js",
+    "main.js.map": "/opticaindustrial/static/js/main.3efe11d8.chunk.js.map",
     "runtime-main.js": "/opticaindustrial/static/js/runtime-main.8e0ad354.js",
     "runtime-main.js.map": "/opticaindustrial/static/js/runtime-main.8e0ad354.js.map",
     "static/js/2.91cb5c49.chunk.js": "/opticaindustrial/static/js/2.91cb5c49.chunk.js",
     "static/js/2.91cb5c49.chunk.js.map": "/opticaindustrial/static/js/2.91cb5c49.chunk.js.map",
     "index.html": "/opticaindustrial/index.html",
-    "precache-manifest.f76bb1d1afd79e4e16996a2f77bbbb6a.js": "/opticaindustrial/precache-manifest.f76bb1d1afd79e4e16996a2f77bbbb6a.js",
+    "precache-manifest.6d22845de4e7fe9a80b8a1372833f16d.js": "/opticaindustrial/precache-manifest.6d22845de4e7fe9a80b8a1372833f16d.js",
     "service-worker.js": "/opticaindustrial/service-worker.js",
     "static/css/main.1fc973a9.chunk.css.map": "/opticaindustrial/static/css/main.1fc973a9.chunk.css.map",
     "static/js/2.91cb5c49.chunk.js.LICENSE.txt": "/opticaindustrial/static/js/2.91cb5c49.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8e0ad354.js",
     "static/js/2.91cb5c49.chunk.js",
     "static/css/main.1fc973a9.chunk.css",
-    "static/js/main.4147de0a.chunk.js"
+    "static/js/main.3efe11d8.chunk.js"
   ]
 }
