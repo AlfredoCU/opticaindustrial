@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/opticaindustrial/static/css/main.ee363866.chunk.css",
-    "main.js": "/opticaindustrial/static/js/main.d353dcc7.chunk.js",
-    "main.js.map": "/opticaindustrial/static/js/main.d353dcc7.chunk.js.map",
+    "main.css": "/opticaindustrial/static/css/main.c1406407.chunk.css",
+    "main.js": "/opticaindustrial/static/js/main.ec21701a.chunk.js",
+    "main.js.map": "/opticaindustrial/static/js/main.ec21701a.chunk.js.map",
     "runtime-main.js": "/opticaindustrial/static/js/runtime-main.8e0ad354.js",
     "runtime-main.js.map": "/opticaindustrial/static/js/runtime-main.8e0ad354.js.map",
-    "static/js/2.7a363c30.chunk.js": "/opticaindustrial/static/js/2.7a363c30.chunk.js",
-    "static/js/2.7a363c30.chunk.js.map": "/opticaindustrial/static/js/2.7a363c30.chunk.js.map",
+    "static/js/2.b36a748a.chunk.js": "/opticaindustrial/static/js/2.b36a748a.chunk.js",
+    "static/js/2.b36a748a.chunk.js.map": "/opticaindustrial/static/js/2.b36a748a.chunk.js.map",
     "index.html": "/opticaindustrial/index.html",
-    "precache-manifest.242a3578ea16c716b4f3561cd97f5f59.js": "/opticaindustrial/precache-manifest.242a3578ea16c716b4f3561cd97f5f59.js",
+    "precache-manifest.49c3831ab1956820bedf11122245b19a.js": "/opticaindustrial/precache-manifest.49c3831ab1956820bedf11122245b19a.js",
     "service-worker.js": "/opticaindustrial/service-worker.js",
-    "static/css/main.ee363866.chunk.css.map": "/opticaindustrial/static/css/main.ee363866.chunk.css.map",
-    "static/js/2.7a363c30.chunk.js.LICENSE.txt": "/opticaindustrial/static/js/2.7a363c30.chunk.js.LICENSE.txt",
+    "static/css/main.c1406407.chunk.css.map": "/opticaindustrial/static/css/main.c1406407.chunk.css.map",
+    "static/js/2.b36a748a.chunk.js.LICENSE.txt": "/opticaindustrial/static/js/2.b36a748a.chunk.js.LICENSE.txt",
     "static/media/15.png": "/opticaindustrial/static/media/15.f1d4c93c.png",
     "static/media/2.jpg": "/opticaindustrial/static/media/2.1b5db05c.jpg",
     "static/media/21.png": "/opticaindustrial/static/media/21.ab3d5d13.png",
@@ -45,21 +45,27 @@
     "static/media/Promo.jpg": "/opticaindustrial/static/media/Promo.da577b4b.jpg",
     "static/media/Promo1.jpg": "/opticaindustrial/static/media/Promo1.0ec1c763.jpg",
     "static/media/Somos.png": "/opticaindustrial/static/media/Somos.89dc733f.png",
+    "static/media/armazones.jpg": "/opticaindustrial/static/media/armazones.3f233956.jpg",
     "static/media/building.svg": "/opticaindustrial/static/media/building.5193bfbb.svg",
     "static/media/chartLine.svg": "/opticaindustrial/static/media/chartLine.873b7801.svg",
+    "static/media/contacto.jpg": "/opticaindustrial/static/media/contacto.1e446d16.jpg",
     "static/media/envelope.svg": "/opticaindustrial/static/media/envelope.3ee33314.svg",
+    "static/media/examenes.jpeg": "/opticaindustrial/static/media/examenes.7553d9d8.jpeg",
     "static/media/eye.svg": "/opticaindustrial/static/media/eye.699679c1.svg",
     "static/media/facebook.svg": "/opticaindustrial/static/media/facebook.f3a53c32.svg",
     "static/media/handShake.svg": "/opticaindustrial/static/media/handShake.d93de3ca.svg",
     "static/media/instagram.svg": "/opticaindustrial/static/media/instagram.9da78286.svg",
+    "static/media/mantenimiento.jpeg": "/opticaindustrial/static/media/mantenimiento.c8f1791a.jpeg",
     "static/media/mapMarkedAlt.svg": "/opticaindustrial/static/media/mapMarkedAlt.9be5acbf.svg",
+    "static/media/micas.jpg": "/opticaindustrial/static/media/micas.e8d946e5.jpg",
     "static/media/phoneAlt.svg": "/opticaindustrial/static/media/phoneAlt.bcaa2c15.svg",
-    "static/media/smileWink.svg": "/opticaindustrial/static/media/smileWink.be6ece49.svg"
+    "static/media/smileWink.svg": "/opticaindustrial/static/media/smileWink.be6ece49.svg",
+    "static/media/sol.jpg": "/opticaindustrial/static/media/sol.e49e2357.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8e0ad354.js",
-    "static/js/2.7a363c30.chunk.js",
-    "static/css/main.ee363866.chunk.css",
-    "static/js/main.d353dcc7.chunk.js"
+    "static/js/2.b36a748a.chunk.js",
+    "static/css/main.c1406407.chunk.css",
+    "static/js/main.ec21701a.chunk.js"
   ]
 }

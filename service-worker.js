@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/opticaindustrial/precache-manifest.242a3578ea16c716b4f3561cd97f5f59.js"
+  "/opticaindustrial/precache-manifest.49c3831ab1956820bedf11122245b19a.js"
 );
 
 self.addEventListener('message', (event) => {
