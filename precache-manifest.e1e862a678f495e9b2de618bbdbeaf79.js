@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a76f5e08cb84d222852ad6d9a4f09f71",
+    "revision": "ff4dc501e6ab19f446c9339842f1f382",
     "url": "/opticaindustrial/index.html"
   },
   {
-    "revision": "db20978ef5a9f8ca81ba",
+    "revision": "7028306b7b6a5e26f506",
     "url": "/opticaindustrial/static/css/main.c1406407.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/opticaindustrial/static/js/2.b36a748a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db20978ef5a9f8ca81ba",
-    "url": "/opticaindustrial/static/js/main.ec21701a.chunk.js"
+    "revision": "7028306b7b6a5e26f506",
+    "url": "/opticaindustrial/static/js/main.71fd4392.chunk.js"
   },
   {
     "revision": "26c97e2ba1188b2551b4",
